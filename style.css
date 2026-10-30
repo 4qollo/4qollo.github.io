@@ -2,12 +2,8 @@ body {
     background-color: black;
     color: #06df06;
     font-family: monospace;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
 }
-.codeIt {
+.buttons {
     background-color: rgb(0, 255, 0);
     font-weight: bold;
     font-size: 20px;
